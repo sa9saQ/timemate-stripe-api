@@ -11,5 +11,5 @@
       "src": "/api/checkout",
       "dest": "api/create-checkout-session.js"
     }
-  ]
+ ]
 }
